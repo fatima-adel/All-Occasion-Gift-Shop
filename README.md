@@ -5,7 +5,7 @@ This is a transnational dataset containing all transactions occurring between 01
 
 The available dashboard provides data analysis and visualization for this data set, including the number of transactions, no. of active clients (new and recurrent), and churn rate across time (weekly, monthly, and annually). 
 
-Regarding the “churn rate”, I did the calculation based on the definition: 
+The “churn rate” was calculated based on the following definition: 
 (Lost customers/Total customers at a certain period) *100
 
 Due to a lack of information about previous years. The annual rate was calculated by using the average losses per month.
