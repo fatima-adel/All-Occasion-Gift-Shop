@@ -1,6 +1,9 @@
 # All-Occasion-Gift-Shop
 Basic PowerBI Dashboard
 
+![Screenshot 2024-05-09 174615](https://github.com/fatima-adel/All-Occasion-Gift-Shop/assets/92795690/c1a87e39-10e8-4280-93a7-c16afd440cec)
+
+
 This is a transnational dataset containing all transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail. The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers. 
 
 The available dashboard provides data analysis and visualization for this data set, including the number of transactions, no. of active clients (new and recurrent), and churn rate across time (weekly, monthly, and annually). 
